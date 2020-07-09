@@ -27,7 +27,7 @@ for(let i=0 ;i<2 ;i++){
         blockBack.className="face back d-inline-block";
         gameblock.appendChild(blockBack);
         
-        iconFront.className = "fa fa-question fa-5x text-danger";
+        iconFront.className = "fa fa-question fa-5x  text-danger";
 
         blockFront.appendChild(iconFront);
         blockFront.className="face front d-inline-block ";
