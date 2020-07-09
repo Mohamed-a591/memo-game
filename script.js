@@ -1,15 +1,15 @@
 var name;
 var iconNames = [
-  "fa-js-square",
-  "fa-github",
-  "fa-facebook",
-  "fa-html5",
-  "fa-css3",
-  "fa-linkedin",
-  "fa-vuejs",
-  "fa-twitter",
-  "fa-react",
-  "fa-angular",
+    "fa-js-square",
+    "fa-github",
+    "fa-facebook",
+    "fa-html5",
+    "fa-css3",
+    "fa-linkedin",
+    "fa-vuejs",
+    "fa-twitter",
+    "fa-react",
+    "fa-angular",
 ];
 
 for(let i=0 ;i<2 ;i++){
@@ -52,7 +52,6 @@ function start(){
     }
     
 }
-   
     
 spanControl.onclick = function(){
     name = prompt("enter your name: ");
